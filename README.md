@@ -10,7 +10,7 @@ Find relevant internships quickly Filter opportunities effectively Match roles w
 
 This project solves that by building a structured recommendation system that provides personalized, filter-driven job discovery with a clean and intuitive UX.
 
-📸 Application Preview
+![📸 Application Preview](Homepage.png)
 
 Application Screenshot ✨ Key Features
 
