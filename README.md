@@ -8,7 +8,7 @@ Students often struggle to:
 
 Find relevant internships quickly Filter opportunities effectively Match roles with their skills Track previous searches
 
-This project solves that by building a structured recommendation system that provides personalized, filter-driven job discovery with a clean and intuitive UX.
+This project solves that by building a structured recommendation system that provides personalized , filter-driven job discovery with a clean and intuitive UX.
 
 ![📸 Application Preview](Homepage.png)
 
