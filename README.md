@@ -44,7 +44,7 @@ Tooling
 
 Git Postman JWT Authentication
 
-🧠 Recommendation Logic (Core Concept)
+🧠 Recommendation Logic ( Core Concept )
 
 The system filters internships using:
 
